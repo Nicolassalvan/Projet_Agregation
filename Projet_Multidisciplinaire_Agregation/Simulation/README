@@ -1,0 +1,46 @@
+Projet Pluri-disciplinaire MAIN3 
+Polytech Sorbonne2022-2023
+
+Nicolas SALVAN 
+Thomas CHEN
+Romain CAPRON 
+Merlin FOUCHE
+Antoine POULAIN 
+Clément ZHUANG
+
+
+Projet : Chlamydomonas reinhardtii
+
+
+# Intro ============================================================= # 
+
+Bienvenue dans le projet de modélisation de réaction au stress des algues vertes Chlamydomonas reinhardtii.
+
+
+
+# Compilation ============================================================= # 
+
+Pour ce code, vous aurez besoin des bibliothèques suivantes : 
+    PyQt5
+    matplotlib
+    numpy
+    ffmpeg
+
+Pour la compilation, compiler en python le module Main_Window.py
+
+
+
+# Modules ============================================================= # 
+
+Le code est divisé en deux parties : 
+    les modules en SIM_<module>.py permettant la simulation des algues 
+    les modules en GUI_<module>.py permettant l'affichage de l'interface graphique
+
+Le fichier Main_Window.py permet l'affichage de la fenetre principale réunisant les différents modules
+
+Le fichier _settings.py contient les paramètres de la modélisation nécéssaires dans différents modules
+
+
+
+# Fin ============================================================= # 
+
