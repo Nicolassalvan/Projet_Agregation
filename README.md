@@ -12,10 +12,8 @@ simulation. Dans un deuxième temps, nous avons réalisé un outil d'analyse d'i
 partir des vidéos d'agrégation des algues, comme la taille des agrégats par exemple. Enfin, nous avons réalisé une interface
 pour permettre une utilisation plus simplifiée de la simulation. La démarche est plus détaillée dans le rapport LateX. 
 
-## Simulation et interface
+## Lancement du code 
 
-(to do) 
+Le code du projet est divisé en deux parties, que nous avons disposé dans deux dossiers. Un README se trouve dans chaque 
+dossier pour lancer la simulation ou analyser les images. 
 
-## Analyse d'image 
-
-(to do) 
