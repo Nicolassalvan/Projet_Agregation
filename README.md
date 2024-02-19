@@ -2,7 +2,7 @@
 
 ## Auteurs du projet 
 
-Notre groupe est composé de Thomas Chen, Romain Capron, Antoine Poulain, Clément Zhuang, Nicolas Salvan et Yannick. 
+Notre groupe est composé de Thomas Chen, Romain Capron, Antoine Poulain, Clément Zhuang, Nicolas Salvan, Merlin Fouché. 
 
 ## Objectifs
 
